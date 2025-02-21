@@ -1,0 +1,1 @@
+print("Github profili için readme dosyası oluşturulacak.")
