@@ -1,0 +1,1 @@
+## eğitim sonrası 27 şubat ##
