@@ -1,0 +1,1 @@
+## Eğitim sonrası 24 nisan ##

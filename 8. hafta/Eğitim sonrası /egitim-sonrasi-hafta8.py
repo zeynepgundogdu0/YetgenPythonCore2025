@@ -1,0 +1,1 @@
+## Eğitim sonrası 10 nisan ##
