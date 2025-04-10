@@ -1,0 +1,15 @@
+
+ogrenci, ders = input().split()
+ogrenci = int(ogrenci)  
+ders = int(ders)        
+
+toplam_not = [0] * ogrenci  
+
+for i in range(ders):
+    notlar = input().split()
+    for j in range(ogrenci):
+        toplam_not[j] += float(notlar[j])
+
+for toplam in toplam_not:
+    ortalama = toplam / ders
+    print(round(ortalama, 1))
